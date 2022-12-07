@@ -25,9 +25,12 @@ indicate that events have passed a point of no return.
 
 
 Read more: https://en.wikipedia.org/wiki/Alea_iacta_est
+<<<<<<< HEAD
+=======
 
 julien@ubuntu:/tmp/h$ ./6-third_line 
 
 Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
 
 julien@ubuntu:/tmp/h$ 
+>>>>>>> 21a7821a10dd55338ebe7b9073cdff491d7b7cb9
